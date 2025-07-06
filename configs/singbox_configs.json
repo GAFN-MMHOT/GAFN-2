@@ -79,8 +79,8 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇦 hysteria2-bdadfa08 (Ukraine)",
-        "🇮🇹 hysteria2-7d587f65 (Italy)",
+        "🇺🇦 hysteria2-0d8d8902 (Ukraine)",
+        "🇮🇹 hysteria2-6bbb3cc0 (Italy)",
         "direct"
       ]
     },
@@ -88,8 +88,8 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇦 hysteria2-bdadfa08 (Ukraine)",
-        "🇮🇹 hysteria2-7d587f65 (Italy)"
+        "🇺🇦 hysteria2-0d8d8902 (Ukraine)",
+        "🇮🇹 hysteria2-6bbb3cc0 (Italy)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -101,7 +101,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇦 hysteria2-bdadfa08 (Ukraine)",
+      "tag": "🇺🇦 hysteria2-0d8d8902 (Ukraine)",
       "server": "185.126.255.78",
       "server_port": 37058,
       "password": "0cb527d9-6117-4bcf-a52b-1704b3458cef",
@@ -113,7 +113,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇮🇹 hysteria2-7d587f65 (Italy)",
+      "tag": "🇮🇹 hysteria2-6bbb3cc0 (Italy)",
       "server": "23.132.228.217",
       "server_port": 51503,
       "password": "0cb527d9-6117-4bcf-a52b-1704b3458cef",
